@@ -12,7 +12,7 @@ def match_sarjeel():
             $string1 = "bogus %p"
             $string2 = "n:c:t:b:T:p:u:v:rkVhwix:y:z:C:H:P:A:g:X:de:Sq"
     condition:
-            2 of them
+            all of them
     }
     """
 
